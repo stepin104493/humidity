@@ -1,5 +1,5 @@
 //.h file
-#ifndef H_H
+#ifndef HUMID_H
 #define HUMID_H
 
 void humidity();
