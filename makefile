@@ -6,7 +6,7 @@ BUILD = build
 
 # All source code files
 SRC = main.c\
-humid.c\
+humid.h\
 
 
 # All include folders with header files
