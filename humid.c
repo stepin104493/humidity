@@ -10,5 +10,5 @@ void humidity() {
    {
 	printf("Alert");
     }
-   return 0;
+  // return 0;
 }
